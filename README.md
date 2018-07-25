@@ -1,4 +1,4 @@
-# oauth
+# Vue Starter Template
 
 ## Project setup
 ```
